@@ -7,6 +7,15 @@ export TZ="America/Toronto"
 # Oh My ZSH
 export ZSH=$HOME/.oh-my-zsh
 
+# Utilities
+export EDITOR='code'
+export VISUAL='vim'
+export GIT_EDITOR='vim'
+
+# Locales
+export LANG="en_US.UTF-8"
+export LC_ALL=$LANG
+
 # Path
 export PATH="$HOME/.zsh/bin:$PATH"
 export PATH="/usr/local/sbin:$PATH"
