@@ -6,6 +6,7 @@ export TZ="America/Toronto"
 
 # Oh My ZSH
 export ZSH=$HOME/.oh-my-zsh
+export ZSH_THEME="robbyrussell"
 
 # Utilities
 export EDITOR='code'
