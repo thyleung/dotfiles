@@ -10,8 +10,8 @@ export ZSH_THEME="robbyrussell"
 
 # Utilities
 export EDITOR='code'
-export VISUAL='vim'
-export GIT_EDITOR='vim'
+export VISUAL='vi'
+export GIT_EDITOR='vi'
 
 # Locales
 export LANG="en_US.UTF-8"
